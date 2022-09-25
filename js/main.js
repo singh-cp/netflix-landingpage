@@ -8,6 +8,5 @@ faqQuestions.forEach((faq) => {
     } else {
       childElement.innerHTML = "&#43;";
     }
-    console.log(childElement);
   });
 });
